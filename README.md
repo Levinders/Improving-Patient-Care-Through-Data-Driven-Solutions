@@ -1,7 +1,7 @@
 # Improving-Patient-Care-Through-Data-Driven-Solutions
 ![Improving-Patient-Care-Through-Data-Driven-Solutions](patient%20care.png)
 
-This project was my submission for a case study assessment for an analyst volunteer position at [The Analyst Hub]([(https://www.linkedin.com/company/theanalysthub/posts/?feedView=all]). I advanced to the next phase of the selection process after review.  This is part of my stellar projects, showcasing my analytical skills essential for any data analyst role.
+This project was my submission for a case study assessment for an analyst volunteer position at [The Analyst Hub](https://www.linkedin.com/company/theanalysthub/posts/?feedView=all). I advanced to the next phase of the selection process after review.  This is part of my stellar projects, showcasing my analytical skills essential for any data analyst role.
 
 ### Case Study
 The healthcare sector continuously strives to enhance patient care and outcomes. One common issue is ensuring that patients receive the best possible care during and after their hospital stay. Using data, healthcare providers can identify areas to improve patient experiences, reduce complications, and ensure better recovery.
