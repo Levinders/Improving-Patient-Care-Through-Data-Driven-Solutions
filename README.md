@@ -9,24 +9,32 @@ The healthcare sector continuously strives to enhance patient care and outcomes.
 ### Challenge:
 As a Data Analyst, my task is to:
 
-Understand the factors that affect patient care quality.
-Identify areas where care can be improved using data insights.
-Propose simple, actionable solutions to enhance patient care.
+* Understand the factors that affect patient care quality.
+* Identify areas where care can be improved using data insights.
+* Propose simple, actionable solutions to enhance patient care.
  
 ### Dataset Overview:
 My dataset is 10,000 unidentifiable patient records with the following details:
 
-Patient ID: Unique identifier for each patient.
-Age: Patient’s age.
-Gender: Male or Female.
-Primary Diagnosis: Main reason for hospitalization.
-Comorbidities: Other medical conditions.
-Length of Stay (LOS): Days spent in the hospital.
-Discharge Destination: Where the patient went after discharge (e.g., home, nursing facility).
-Follow-up Appointment: Scheduled follow-up within 7 days (Yes/No).
-Medication Adherence: Whether the patient took prescribed medications (Yes/No).
-Care Satisfaction: Patient’s rating of their care experience (1-5).
-Tools/Approach Used:
-Google Sheet
-Spreadsheet Formulas, Queries & Functions
-Pivot Tables, Slicers & Charts
+* Patient ID: Unique identifier for each patient.
+* Age: Patient’s age.
+* Gender: Male or Female.
+* Primary Diagnosis: Main reason for hospitalization.
+* Comorbidities: Other medical conditions.
+* Length of Stay (LOS): Days spent in the hospital.
+* Discharge Destination: Where the patient went after discharge (e.g., home, nursing facility).
+* Follow-up Appointment: Scheduled follow-up within 7 days (Yes/No).
+* Medication Adherence: Whether the patient took prescribed medications (Yes/No).
+* Care Satisfaction: Patient’s rating of their care experience (1-5).
+
+### Tools/Approach Used:
+* Google Sheet
+* Spreadsheet Formulas, Queries & Functions
+* Pivot Tables, Slicers & Charts
+
+### Steps Taken
+* I started first by formulating analytical/business questions that when answered would address the objectives of the analysis
+* Data cleaning: filtered out and deleted 2 blank rows and columns in the dataset
+* EDA: I used a combination of spreadsheet queries and pivot tables to draw various insights from the data
+* Visualization: I created charts based on my pivot tables with a slicer for drilling down the results
+* I created and formatted 5 additional columns in the dataset tab, those with headers coloured black – int the Google Sheet Workbook
