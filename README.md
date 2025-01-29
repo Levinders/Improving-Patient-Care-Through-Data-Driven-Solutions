@@ -38,3 +38,5 @@ My dataset is 10,000 unidentifiable patient records with the following details:
 * EDA: I used a combination of spreadsheet queries and pivot tables to draw various insights from the data
 * Visualization: I created charts based on my pivot tables with a slicer for drilling down the results
 * I created and formatted 5 additional columns in the dataset tab, those with headers coloured black – int the Google Sheet Workbook
+
+[Dataset and Google Sheet Workbook - Live Dashboard](https://docs.google.com/spreadsheets/d/17XY4x6cvruQ_Bz6ofeK2bfIW6Q_SPm2lgvxos_rl0Zs/edit?gid=594884892#gid=594884892)
